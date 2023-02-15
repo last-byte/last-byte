@@ -1,10 +1,3 @@
----
-layout: page
-title: whoami
-subtitle: 404 - skills not found
-published: true
----
-
 My name is Federico a.k.a. [last](https://twitter.com/last0x00), I'm an Italian security researcher and member of the [Advanced Persistent Tortellini collective](https://aptw.tf/about/). I study and develop offensive software, hold a bunch of certs, enjoy lockpicking and [acrobatic quadcopter ~~crashing~~ flying](https://www.youtube.com/watch?v=DpP_eaYOmxg). I also play CTFs with my mates @ [JBZ Team](https://jbz.team/about/) and I'm a huge fan of [XKCD](https://xkcd.com/1243/). If you want to have a look at the ~~shitty~~ code I write head to my [GitHub profile](https://github.com/last-byte). Other than that I don't have much to showcase to be honest... `¯\_(ツ)_/¯`  
 
 Certifications:

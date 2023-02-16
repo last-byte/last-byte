@@ -10,7 +10,11 @@ Certifications:
 - [Certified Red Team Expert (CRTE) - 2022](https://www.credential.net/3349518b-6395-4891-bd11-6c51fb69a17a)
 - [Certified Azure Red Team Professional (CARTP) - 2022](https://www.credential.net/ee2939e1-29d7-4bb0-a47b-d64426f49886)
 
-External blog posts:
+Blogs:
+- [Not So Pro Project](https://blog.notso.pro)
+- [Advanced Persistent Tortellini's blog](https://aptw.tf)
+
+My posts on APTortallini's blog:
 - [Taking a detour inside LSASS](https://aptw.tf/2020/11/16/extracting-hashes-hooking.html) - extracting local hashes by hooking the MsvpPasswordValidate function inside LSASS memory
 - [The dying knight in the shiny armour](https://aptw.tf/2021/08/21/killing-defender.html) - killing Defender through NT symbolic links redirection while keeping it unbothered
 - [Stealing weapons from the Armoury](https://aptw.tf/2021/09/24/armoury-crate-privesc.html) - root cause analysis of a privilege escalation vulnerability in ASUS ROG Armoury Crate Lite Service v4.2.8 (CVE-2021-40981)
